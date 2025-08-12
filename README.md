@@ -1,9 +1,4 @@
 # Explorando Padrões de Projetos na Prática com Java
-- Singleton
-- Strategy/Repository
-- Facade
-
-
 Este repositório contém as implementações dos padrões de projeto explorados no laboratório "Explorando Padrões de Projetos na Prática com Java", realizado durante o curso DIO. O objetivo deste exercício foi aplicar conceitos de design patterns utilizando o framework Spring.
 
 # Padrões de Projeto Implementados
@@ -57,3 +52,6 @@ lab-padroes-projeto-spring/
 
 # Licença
 Este projeto está licenciado sob a licença MIT. Sinta-se à vontade para usar, modificar e distribuir o código.
+
+## Autor
+Giovanni Pereira Valente
